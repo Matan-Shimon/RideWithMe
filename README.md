@@ -74,7 +74,7 @@ npm install
 
 5. Review the ride details, driver's ratings, and any additional information provided by the driver.
 
-6. Once you find a suitable ride, click on the "Ask To Join" button to send a ride request to the driver. Optionally, you can use the in-app messaging system to communicate with the driver and discuss any specific requirements or details.
+6. Once you find a suitable ride, click on the "Ask To Join" button to send a ride request to the driver.
 
 7. Wait for the driver's response to your ride request. The driver will confirm or decline your request based on their availability and preferences.
 
@@ -108,9 +108,6 @@ npm install
 <img src="https://github.com/Matan-Shimon/RideWithMe/assets/63747865/e90e3b19-a7c3-45e4-8d78-8af75789ecd5" alt="Image 1" width="300" />
 <img src="https://github.com/Matan-Shimon/RideWithMe/assets/63747865/d5de5d4b-e506-4503-afcb-2fe81fa2efcd" alt="Image 2" width="300" />
 <img src="https://github.com/Matan-Shimon/RideWithMe/assets/63747865/550aafc5-bb70-4303-8fdc-0fd2d44c1d20" alt="Image 3" width="300" />
-
-* Search Results
-
 
 * My Rides
 
